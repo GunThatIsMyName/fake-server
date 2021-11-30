@@ -1,1 +1,1 @@
-export const Endpoint ="http://localhost:3001/blogs";
+export const Endpoint ="http://localhost:8000/blogs";
